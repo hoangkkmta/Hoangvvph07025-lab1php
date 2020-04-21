@@ -17,4 +17,5 @@
  $nam=new obj();
  $nam->setage(29);
  echo $nam->getage();
+ 
 ?>
