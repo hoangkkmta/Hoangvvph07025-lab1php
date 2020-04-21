@@ -25,10 +25,10 @@ class PhepTinh{
     var $songuyento;
     var $sochan;
     var $sole;
-    function tong()
-    function hieu()
-    function tich()
-    function thuong()
+    function tong(){}
+    function hieu(){}
+    function tich(){}
+    function thuong(){}
 
 }
 
